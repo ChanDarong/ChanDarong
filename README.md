@@ -35,6 +35,7 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 - Continuing to improve skills in Laravel and API development
 - Exploring system design patterns and backend optimization
 
+<!--
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChanDarong&theme=gruvbox&hide_border=false)](https://git.io/streak-stats)
@@ -42,6 +43,7 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 [![Darong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChanDarong&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanDarong&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## Contact
 - Email: **chandarong333@gmail.com**
@@ -50,4 +52,4 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 
 ## Socials
 - GitHub: [ChanDarong](https://github.com/ChanDarong)
-- LinkedIn: [Sambath Oung](https://www.linkedin.com/in/sambath-oung-951b86367)
+- LinkedIn: [Darong Chan](https://www.linkedin.com/in/darong-chan-1aa976330)
