@@ -1,4 +1,4 @@
-# Hi, I'm Chan Darong
+# 👋 Hi, I'm Chan Darong
 
 I'm a web developer specializing in Laravel. I build websites, systems, and APIs with a focus on functionality, structure, and maintainability. Currently working full-time as a Laravel developer.
 
@@ -25,15 +25,19 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 - **[Dynashopkkh](https://dynashopkh.com)** – Game top-up platform with user-friendly interface.
 - **[Direct Sport News](https://invoice.ntsportcambodia.com)** – Internal system for managing invoices in a sportswear printing business.
 
-## 🎓 Education
+## 📚 Education
 - Bachelor's Degree in Computer Science
 
 ## 🌱 Currently Learning
-- Continuing to improve skills in Laravel and API development  
-- Exploring system design patterns and backend optimization
-- Vue.js for building interactive frontends
-- Tailwind CSS for efficient and flexible UI design
-- Node.js and Express for backend API development
+- Vue.js for building interactive frontends  
+- Tailwind CSS for efficient and flexible UI design  
+- Node.js and Express for backend API development  
+- Continuing to deepen knowledge in Laravel and system design  
+
+## 📊 GitHub Stats
+![Darong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanDarong&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanDarong&layout=compact&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChanDarong&theme=gruvbox&hide_border=false)](https://git.io/streak-stats)
 
 ## 📫 Contact
 - Email: **chandarong333@gmail.com**
@@ -43,7 +47,3 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 ## 🌐 Socials
 - GitHub: [ChanDarong](https://github.com/ChanDarong)
 - LinkedIn: [Sambath Oung](https://www.linkedin.com/in/sambath-oung-951b86367)
-
-## 📊 GitHub Stats
-![Darong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanDarong&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanDarong&layout=compact&theme=gruvbox)
