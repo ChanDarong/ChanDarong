@@ -32,7 +32,8 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 - Vue.js for building interactive frontends  
 - Tailwind CSS for efficient and flexible UI design  
 - Node.js and Express for backend API development  
-- Continuing to deepen knowledge in Laravel and system design
+- Continuing to improve skills in Laravel and API development
+- Exploring system design patterns and backend optimization
 
 ## GitHub Stats
 
