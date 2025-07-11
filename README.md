@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Chan Darong
+# Hi, I'm Chan Darong
 
 I'm a web developer specializing in Laravel. I build websites, systems, and APIs with a focus on functionality, structure, and maintainability. Currently working full-time as a Laravel developer.
 
-## 🧑‍💻 About Me
+## About Me
 - Comfortable working with backend systems and database structures  
 - Focused on delivering reliable and efficient code  
 - Enjoy solving complex problems and improving existing systems
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -20,30 +20,30 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 
-## 📌 Highlighted Projects
+## Highlighted Projects
 - **[CIGJF](https://cigjf.org)** – Website for showcasing annual exhibition events.
 - **[Dynashopkkh](https://dynashopkh.com)** – Game top-up platform with user-friendly interface.
 - **[Direct Sport News](https://invoice.ntsportcambodia.com)** – Internal system for managing invoices in a sportswear printing business.
 
-## 📚 Education
+## Education
 - Bachelor's Degree in Computer Science
 
-## 🌱 Currently Learning
+## Currently Learning
 - Vue.js for building interactive frontends  
 - Tailwind CSS for efficient and flexible UI design  
 - Node.js and Express for backend API development  
 - Continuing to deepen knowledge in Laravel and system design  
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Darong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanDarong&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanDarong&layout=compact&theme=gruvbox)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChanDarong&theme=gruvbox&hide_border=false)](https://git.io/streak-stats)
 
-## 📫 Contact
+## Contact
 - Email: **chandarong333@gmail.com**
 - Telegram: [@DarongCHAN](https://t.me/DarongCHAN)
 - Phone: `+855 76 416 1121`
 
-## 🌐 Socials
+## Socials
 - GitHub: [ChanDarong](https://github.com/ChanDarong)
 - LinkedIn: [Sambath Oung](https://www.linkedin.com/in/sambath-oung-951b86367)
