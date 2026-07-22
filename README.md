@@ -7,6 +7,8 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 - Focused on delivering reliable and efficient code  
 - Enjoy solving complex problems and improving existing systems
 
+>I prefer spending my time learning, solving problems, and createing things rather than managing people or chasing deadlines.
+
 ## Tech Stack
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
