@@ -24,7 +24,7 @@ I'm a web developer specializing in Laravel. I build websites, systems, and APIs
 
 ## Highlighted Projects
 - [CIGJF](https://cigjf.org) – Website for showcasing annual exhibition events  
-- [Dynashopkkh](https://dynashopkh.com) – Game top-up platform with user-friendly interface  
+- [Dynashopkh](https://dynashopkh.com) – Game top-up platform with user-friendly interface  
 - [Direct Sport News](https://invoice.ntsportcambodia.com) – Internal system for managing invoices in a sportswear printing business
 
 ## Education
